@@ -54,9 +54,34 @@ Android 4.4 Kit Kat
 Android 4.4 W Kit Kat
 Android 5.0/5.1 Lollipop
 Android 6.0 Marshmallow:
--
+- Menu de configurações: Apenas o ícone e o título.
 Android 7.0 Nougat:
--
-
+- Menu de configurações: Ícone, título e informações básicas. Exemplo: Status de memória, quantidade de internet consumida, quantidade de app instalado.
+- Central de notificações: responder a uma mensagem diretamente do painel, sem precisar abrir o aplicativo, por exemplo. Além disso, é possível escolher entre seis níveis de alerta, desde o mais invasivo, que sempre vai te notificar e ainda colocar a notificação no topo da lista, até o bloqueio total da notificação.
+- Multitarefa: função de colocar dois aplicativos dividindo a tela ao mesmo tempo.
+- Daydream:  interface específica para ser controlada com seus óculos de realidade virtual e deve aumentar a oferta de aplicativos e jogos adaptados à tecnologia.
+- Economia de dados: o navegador pode carregar imagens sob demanda ou exibir vídeos de baixa resolução, por exemplo.
+- Atualizações transparentes: As atualizações no Android 7.0 poderão ser parecidas com as do Chrome: elas serão baixadas em segundo plano e instaladas na próxima vez que você reiniciar o aparelho, sem aquelas telas demoradas de instalação que deixam qualquer um ansioso.
+- Escrita em 2 idiomas ao mesmo tempo.
+- Inclusão de 72 emojis.
+- API Vulkan™: imagens 3D em alto desempenho.
+- Soneca em movimento: o dispositivo entra em modo de baixo consumo de energia enquanto está no seu bolso ou na bolsa.
 
 Histórico Microsoft Office:
+Microsoft Office 95
+Microsoft Office 97 
+Microsoft Office 2000
+Microsoft Office XP
+Microsoft Office 2003
+Microsoft Office 2007
+Microsoft Office 2010
+Microsoft Office 2013
+Microsoft Office 2016:
+- Desing estilo Windows 10.
+- Novas ferramentas:  “Diga-me” ou “O que você deseja fazer…” permite ao usuário pesquisar funções do Office como se estivesse em um buscador comum.
+- Função “Compartilhar”, que possibilita trabalhar de forma sincronizada no mesmo documento com várias pessoas.
+- Integração com o OneDrive e também com o Skype.
+- Windows Hello e a Cortana. O primeiro é o acumulado de identificadores biométricos que podem ou não estar presentes na sua máquina, como leitores de digitais, íris etc. Essa segunda, a assistente digital da Microsoft.
+- Função chamada “Pesquisa Inteligente”, que permite selecionar e pesquisar palavras na web através do Bing e receber resultados prontamente de forma bem concisa, bem similar ao que você vê quando procura conceitos no Google.
+- O Excel está mais organizado, com um sistema de seleção de fórmulas mais intuitivo visualmente. Dessa maneira, até usuários que sabem pouco sobre o programa podem fazer cálculos minimamente avançados.
+- 
